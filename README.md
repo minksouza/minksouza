@@ -41,10 +41,11 @@ UCSAL. I love technology and increasing my knowledge, and I am always open to ne
         <img
             alt="curriculum pdf"
             title="curriculum"
-            src="[https://1drv.ms/b/c/2b826a8732caa84b/EffwS7z2vDROpsQZoqXTB_oBdek_s0F-X6DyHqocDFnJlw?e=wbiAEu](https://custom-icon-badges.demolab.com/badge/Salvador-BA-lightgreen?style=for-the-badge&logo=location&logoColor=white)"
+            src="https://custom-icon-badges.demolab.com/badge/Salvador-BA-lightgreen?logo=opened-folder"
         />
     </a>
 </p>
+/*?logo=opened-folder*/
 
 ### 🌍 Idiomas / *Languages*
 
