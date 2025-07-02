@@ -27,21 +27,21 @@ UCSAL. I love technology and increasing my knowledge, and I am always open to ne
         <img
             alt="instagram"
             title="instagram"
-            src="https://custom-icon-badges.demolab.com/badge/-INSTAGRAM-grey?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/yascodes.io/"
+            src="https://custom-icon-badges.demolab.com/badge/-INSTAGRAM-grey?style=for-the-badge&logo=instagram&logoColor=black"
         />
     </a>
        <a href="https://www.linkedin.com/in/yasminbarross/">
         <img
             alt="linkedin"
             title="linkedin"
-            src="https://custom-icon-badges.demolab.com/badge/-linkedin-white?style=for-the-badge&logo=linke&logoColor=black)](https://www.instagram.com/yascodes.io/"
+            src="https://custom-icon-badges.demolab.com/badge/-linkedin-white?style=for-the-badge&logo=linke&logoColor=black"
         />
     </a>
    <a href="https://1drv.ms/b/c/2b826a8732caa84b/EffwS7z2vDROpsQZoqXTB_oBdek_s0F-X6DyHqocDFnJlw?e=wbiAEu">
         <img
             alt="linkedin"
             title="curriculum"
-            src="https://custom-icon-badges.demolab.com/badge/-curriculum-white?logo=opened-folder-style=for-the-badge&logo=linke&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/badge/-curriculum-white?logo=opened-folder=style=for-the-badge&logo=linke&logoColor=black"
         />
     </a>
 </p>
