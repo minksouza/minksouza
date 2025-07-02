@@ -37,15 +37,15 @@ UCSAL. I love technology and increasing my knowledge, and I am always open to ne
             src="https://custom-icon-badges.demolab.com/badge/-linkedin-white?style=for-the-badge&logo=linke&logoColor=black)](https://www.instagram.com/yascodes.io/"
         />
     </a>
-   <a href="https://www.linkedin.com/in/yasminbarross/">
+   <a href="https://1drv.ms/b/c/2b826a8732caa84b/EffwS7z2vDROpsQZoqXTB_oBdek_s0F-X6DyHqocDFnJlw?e=wbiAEu">
         <img
             alt="curriculum pdf"
             title="curriculum"
-            src="https://1drv.ms/b/c/2b826a8732caa84b/EffwS7z2vDROpsQZoqXTB_oBdek_s0F-X6DyHqocDFnJlw?e=wbiAEu"
+            src="[https://1drv.ms/b/c/2b826a8732caa84b/EffwS7z2vDROpsQZoqXTB_oBdek_s0F-X6DyHqocDFnJlw?e=wbiAEu](https://custom-icon-badges.demolab.com/badge/Salvador-BA-lightgreen?style=for-the-badge&logo=location&logoColor=white)"
         />
     </a>
 </p>
-
+?logo=opened-folder
 ### 🌍 Idiomas / *Languages*
 
    </a>
