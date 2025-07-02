@@ -45,7 +45,7 @@ UCSAL. I love technology and increasing my knowledge, and I am always open to ne
         />
     </a>
 </p>
-?logo=opened-folder
+
 ### 🌍 Idiomas / *Languages*
 
    </a>
