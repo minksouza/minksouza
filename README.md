@@ -14,6 +14,8 @@ UCSAL. I love technology and increasing my knowledge, and I am always open to ne
 <br/>
 *🎯**Goals:** Graduate as a software engineer and work in the area of mobile and web development*
 
+Se você gostaria de saber mais sobre mim e minas habilidades, entre em contato por email ou linkedin.
+_If you'd like to know more about me and my habilities, please get in touch by email or linkedin._
 
 <p align="left">
     <a href="">
