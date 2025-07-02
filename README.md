@@ -39,13 +39,6 @@ _If you'd like to know more about me and my habilities, please get in touch by e
             src="https://custom-icon-badges.demolab.com/badge/-linkedin-white?style=for-the-badge&logo=linke&logoColor=black"
         />
     </a>
-   <a href="https://1drv.ms/b/c/2b826a8732caa84b/EffwS7z2vDROpsQZoqXTB_oBdek_s0F-X6DyHqocDFnJlw?e=wbiAEu">
-        <img
-            alt="linkedin"
-            title="curriculum"
-            src="https://custom-icon-badges.demolab.com/badge/-curriculum-white?logo=opened-folder=style=for-the-badge&logo=linke&logoColor=black"
-        />
-    </a>
 </p>
 
 
