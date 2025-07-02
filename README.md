@@ -39,9 +39,9 @@ UCSAL. I love technology and increasing my knowledge, and I am always open to ne
     </a>
    <a href="https://1drv.ms/b/c/2b826a8732caa84b/EffwS7z2vDROpsQZoqXTB_oBdek_s0F-X6DyHqocDFnJlw?e=wbiAEu">
         <img
-            alt="curriculum pdf"
+            alt="linkedin"
             title="curriculum"
-            src="https://custom-icon-badges.demolab.com/badge/Salvador-BA-lightgreen?logo=opened-folder"
+            src="https://custom-icon-badges.demolab.com/badge/-curriculum-white?logo=opened-folder-style=for-the-badge&logo=linke&logoColor=black"
         />
     </a>
 </p>
